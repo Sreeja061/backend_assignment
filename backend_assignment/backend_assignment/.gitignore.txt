@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+db.sqlite3
+.env
+*.pyc
+*.log
+celerybeat-schedule
+*.sqlite3
+*.pkl
+*.db
+*.exe
+*.zip
+*.rar
